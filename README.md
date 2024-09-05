@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# Calculator.react" 
 # Calculator.react
 # Calculator.react
+# Calculator.react
